@@ -1,0 +1,2 @@
+codigo,cliente,direccion,zona,estado_actual,fecha_evento,estado_anterior,estado_nuevo,descripcion
+PED-0013,Mundo Electronico,Av. Wilson 1120,CENTRO,PENDIENTE,2026-09-25 12:15:00,,PENDIENTE,Pedido registrado

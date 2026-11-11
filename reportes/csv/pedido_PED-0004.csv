@@ -1,3 +1,0 @@
-codigo,cliente,direccion,zona,estado_actual,fecha_evento,estado_anterior,estado_nuevo,descripcion
-PED-0004,Comercial El Carmen,Calle Los Tulipanes 210,SUR,EN_CAMINO,2026-09-24 09:00:00,,PENDIENTE,Pedido registrado
-PED-0004,Comercial El Carmen,Calle Los Tulipanes 210,SUR,EN_CAMINO,2026-09-24 09:15:00,PENDIENTE,EN_CAMINO,Asignado a RUT-0002 con CON-0002

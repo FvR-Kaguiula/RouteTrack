@@ -1,3 +1,0 @@
-codigo,cliente,direccion,zona,estado_actual,fecha_evento,estado_anterior,estado_nuevo,descripcion
-PED-0007,Ferreteria Industrial,Av. Nicolas Ayllon 1890,ESTE,EN_CAMINO,2026-09-25 10:30:00,,PENDIENTE,Pedido registrado
-PED-0007,Ferreteria Industrial,Av. Nicolas Ayllon 1890,ESTE,EN_CAMINO,2026-09-25 11:20:00,PENDIENTE,EN_CAMINO,Asignado a RUT-0004 con CON-0004

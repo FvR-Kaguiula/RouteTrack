@@ -1,0 +1,15 @@
+==================== REPORTE DE MICROENTREGAS ====================
+CODIGO      CLIENTE               ZONA        PRIORIDAD   ESTADO      
+----------------------------------------------------------------------
+PED-002     Jos‚                  Centro      Alta        Entregado   
+
+================ RESUMEN OPERATIVO (ZONA X ESTADO) ================
+ZONA           PENDIENTE      EN RUTA        ENTREGADO      
+------------------------------------------------------------
+Norte          0              0              0              
+Sur            0              0              0              
+Este           0              0              0              
+Oeste          0              0              0              
+Centro         0              0              1              
+------------------------------------------------------------
+Total general de pedidos procesados: 1

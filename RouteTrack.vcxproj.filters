@@ -11,7 +11,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Controlador.cpp">
+    <ClCompile Include="funciones.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
     <ClCompile Include="main.cpp">
@@ -19,10 +19,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Modelo.h">
-      <Filter>Archivos de encabezado</Filter>
-    </ClInclude>
-    <ClInclude Include="Controlador.h">
+    <ClInclude Include="funciones.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
   </ItemGroup>
